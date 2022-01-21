@@ -1,1 +1,1 @@
-# c37-Template
+# C37-SpeedRacer_TeacherActivity
